@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Accordion from './state/state-drills/Accordion'
+/*import Accordion from './state/state-drills/Accordion'
 
 const sections = [
   {
@@ -14,12 +14,11 @@ const sections = [
     title: 'Section 3',
     content: 'Animi amet cumque sint cupiditate officia ab voluptatibus libero optio et?',
   },
-]
+]*/
 class App extends Component {
   render(){
     return(
 <div>
-<Accordion sections={sections}/>
 </div>
     )  
 
